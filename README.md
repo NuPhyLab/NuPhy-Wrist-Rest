@@ -6,8 +6,6 @@ These files are provided for personal 3D printing, customization, and non-commer
 
 ## Available Wrist Rest Models
 
-## Available Wrist Rest Models
-
 | Wrist Rest | 3D Model | Six-view Drawing |
 |---|---|---|
 | Air60 HE Wrist Rest | [STEP](./NuPhy%20Wrist%20Rest/NuPhy-Air60-HE-Wrist-Rest.stp) | [PDF](./NuPhy%20Wrist%20Rest/NuPhy-Air60-HE-Wrist-Rest-Six-View-Drawing.pdf) |
